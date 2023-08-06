@@ -1,0 +1,1 @@
+Cree este archivo apartir de usar fs.writeFileSync en Node Modifiqué este archivo apartir de usar fs.writeFileSync y la flag "a" de append en Node
